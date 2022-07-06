@@ -2,7 +2,7 @@
 - 👀 Interested in being a full stack Dev.
 - 🌱 Student Web Development.
 - ❤️ Skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,photoshop,illustrator)](https://skillicons.dev)
 
 [![Sophia Gazzi GitHub Stats](https://github-readme-stats.vercel.app/api?username=SophiaGazzi&show_icons=true&count_private=true)](https://github.com/SophiaGazzi)
 <!---
