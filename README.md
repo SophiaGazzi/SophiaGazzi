@@ -12,6 +12,7 @@
 ```javascript
 const sophi = {
   pronouns: "she" | "her",
+  age: 25y,
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Jest, Docker, Express, Sequelize]
 ```
