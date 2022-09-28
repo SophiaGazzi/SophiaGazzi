@@ -1,23 +1,19 @@
-- 👋 My name is Sophia. Technology lover since 1996.
-- 👀 Interested in being a full stack Dev.
-- 🌱 Student Web Development.
-- ❤️ Skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,git,photoshop,illustrator)](https://skillicons.dev)
+<h2> Hi, I'm Sophia Gazzi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="240">
+<p><em>Web Development Student. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-[![Sophia Gazzi GitHub Stats](https://github-readme-stats.vercel.app/api?username=SophiaGazzi&show_icons=true&count_private=true)](https://github.com/SophiaGazzi)
+[![Linkedin: Sophia Marjorie Gazzi](https://img.shields.io/badge/-SophiaGazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-gazzi/)](https://www.linkedin.com/in/sophia-gazzi/)
+<a href = "mailto:sophiamemy@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333??style=plastic&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+[![GitHub Sophia](https://img.shields.io/github/followers/sophia?label=follow&style=social)](https://github.com/SophiaGazzi)
 
-<br>
 
-  <h4> You can reach me at: </h4>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-  <div> 
-  <a href="https://www.linkedin.com/in/sophia-gazzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sophiamemy@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/parad0xu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+```javascript
+const sophi = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Jest, Docker, Express]
+```
 
-</div>
-<!---
-SophiaGazzi/SophiaGazzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
