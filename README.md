@@ -17,3 +17,6 @@ const sophi = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+  
+  [![Sophia Gazzi GitHub Stats](https://github-readme-stats.vercel.app/api?username=SophiaGazzi&show_icons=true&count_private=true&theme=bear)](https://github.com/SophiaGazzi)
+[![SophiaGazzi](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGazzi&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
