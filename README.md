@@ -4,7 +4,7 @@
 
 [![Linkedin: Sophia Marjorie Gazzi](https://img.shields.io/badge/-SophiaGazzi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophia-gazzi/)](https://www.linkedin.com/in/sophia-gazzi/)
 <a href = "mailto:sophiamemy@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333??style=plastic&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-[![GitHub Sophia](https://img.shields.io/github/followers/sophia?label=follow&style=social)](https://github.com/SophiaGazzi)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
