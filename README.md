@@ -12,9 +12,9 @@
 ```javascript
 const sophi = {
   pronouns: "she" | "her",
-  age: 25 years,
+  age: 26 years,
   code: [Javascript, HTML, CSS, TypeScript],
-  tools: [React, Redux, Node, Jest, Docker, Express, Sequelize]
+  tools: [React, Redux, Node, Jest, Docker, Express, Sequelize, MySQL, MongoDB]
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
